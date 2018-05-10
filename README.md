@@ -4,15 +4,15 @@
 
 # Gatsby Docs Starter 1.0
 
-#### This Project was forked from [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
+#### Этот проект был форкнут с [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
 
-A starter skeleton with advanced features for [Gatsby](https://github.com/gatsbyjs/gatsby/).
+Скелет стартера с расширенными фугкциями для [Gatsby](https://github.com/gatsbyjs/gatsby/).
 
-Developed for creating Documentation or Tutorial websites.
+Разработан для создания сайтов документаций или уроков.
 
 ### [Demo](https://gatsby-docs-starter.netlify.com/)
 
-This template provides everything but the content. You could just write all your lessons in markdown files, configure a few lines of code, and have a completely built documentation website.
+Этот шаблон предоставляет все, кроме содержимого. You could jВы можете просто написать все свои уроки в markdown файлах, настроить несколько строк кода и иметь полностью созданный сайт документации.
 
 ## Changelog
 
